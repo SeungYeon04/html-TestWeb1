@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/A_Study/static/css/main.d0e124aa.css",
-    "main.js": "/A_Study/static/js/main.88a3b023.js",
+    "main.js": "/A_Study/static/js/main.697cfe8a.js",
     "static/js/453.f746b0cc.chunk.js": "/A_Study/static/js/453.f746b0cc.chunk.js",
     "static/media/앵무새.jpg": "/A_Study/static/media/앵무새.9840ebe76061042250c7.jpg",
     "index.html": "/A_Study/index.html",
     "main.d0e124aa.css.map": "/A_Study/static/css/main.d0e124aa.css.map",
-    "main.88a3b023.js.map": "/A_Study/static/js/main.88a3b023.js.map",
+    "main.697cfe8a.js.map": "/A_Study/static/js/main.697cfe8a.js.map",
     "453.f746b0cc.chunk.js.map": "/A_Study/static/js/453.f746b0cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0e124aa.css",
-    "static/js/main.88a3b023.js"
+    "static/js/main.697cfe8a.js"
   ]
 }
